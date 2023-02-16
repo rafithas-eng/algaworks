@@ -1,0 +1,10 @@
+{
+  "ContratoTrabalho": [
+    {"Funcionario":{"nome":"rafael","qtdFilhos": 0},"valorNormal": 10.50,"valorExtta": 16,"tenFilhos": false},
+    {"Funcionario":{"nome":"clementino","qtdFilhos": 4},"valorNormal": 16.50,"valorExtta": 26,"tenFilhos": true},
+    {"Funcionario":{"nome":"araujo","qtdFilhos": 2},"valorNormal": 20.50,"valorExtta": 36,"tenFilhos": true},
+    {"Funcionario":{"nome":"soares","qtdFilhos": 1},"valorNormal": 30.50,"valorExtta": 56,"tenFilhos": true}
+  ],
+  "HorasTrabalhadas": [160.00,200.00,180.00,110.00],
+  "HorasExtras": [10.00,50.00,20.00,0.00]
+}
