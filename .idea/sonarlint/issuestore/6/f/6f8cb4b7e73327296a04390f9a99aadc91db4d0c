@@ -1,0 +1,20 @@
+
+U
+java:S1854*"?Remove this useless assignment to local variable "classLoader".(æ€¸ß
+Å
+java:S1130)"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Œ±‰C
+ì
+java:S1130)"~Remove the declaration of thrown exception 'org.json.simple.parser.ParseException', as it cannot be thrown from method's body.(Œ±‰C
+M
+java:S1172("7Remove these unused method parameters "is", "instance".(ùôºú
+F
+java:S1481*"0Remove this unused "classLoader" local variable.(æ€¸ß
+V	java:S125-"<This block of commented-out lines of code should be removed.(§¬†å¸ˇˇˇˇ
+O
+java:S1068"4Remove this unused "contratoTrabalho" private field.(ñÙ◊ô¯ˇˇˇˇ
+M
+java:S1068"2Remove this unused "folhaPagamento" private field.(ôçÀ—˝ˇˇˇˇ
+J
+java:S1068"/Remove this unused "funcionario" private field.(Ñçåß˘ˇˇˇˇ
+B
+java:S1068",Remove this unused "holerith" private field.(Á»¸ 
